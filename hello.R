@@ -1,1 +1,1 @@
-print("hello")
+hello<- function() {print("hello")}
